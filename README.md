@@ -7,5 +7,6 @@ Python replication for Sutton & Barto's book [*Reinforcement Learning: An Introd
 - python (>=3.6)
 - numpy (>=1.16)
 - ploty (>=4.0)
+- pandas
 - tqdm
 
