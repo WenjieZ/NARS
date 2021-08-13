@@ -21,3 +21,7 @@ Not only does it help you better understand the Book, but also it corrects some 
 - Independent random number generators
 - Interactive plots
 - Animation
+
+## Author
+
+ZHENG Wenjie
